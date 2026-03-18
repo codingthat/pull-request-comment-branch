@@ -5,6 +5,10 @@
 ## [4.0.0](https://github.com/xt0rted/pull-request-comment-branch/compare/v3.0.0...v4.0.0) - 2026-03-18
 
 - Updated node runtime from 20 to 24
+- Bumped `@actions/core` from 1.11.1 to 3.0.0
+- Bumped `@actions/github` from 6.0.0 to 9.0.0
+- Bumped `actions/setup-node` from v5 to v6
+- Bumped `github/codeql-action` from v3 to v4
 
 ## [3.0.0](https://github.com/xt0rted/pull-request-comment-branch/compare/v2.0.0...v3.0.0) - 2024-11-19
 
